@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @NecroFatality
 - 👀 I’m interested in ... Games, Family, Coding, Lifting, Fishing
-- 🌱 I’m currently learning ... C++, Javascript
-- 💞️ I’m looking to collaborate on ... interactive Portfolio
+- 🌱 I’m currently learning ... C++, Javascript, Python
 - 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I can speak 3 languages
+- ⚡ Fun fact: ... I can speak 2 languages and my gamerscore is 100K +.
 
 <!---
 NecroFatality/NecroFatality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
