@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NecroFatality
-- 👀 I’m interested in ... Games, Family, Coding, Lifting, Fishing
+- 👀 I’m interested in ... Games, Family, Coding, Lifting, Fishing,Food
 - 🌱 I’m currently learning ... C++, Javascript, Python
 - 📫 How to reach me ... 
 - ⚡ Fun fact: ... I can speak 2 languages and my gamerscore is 100K +.
