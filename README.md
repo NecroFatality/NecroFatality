@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NecroFatality
+- 👋 Hi, I’m @NecroFatality (Jorge Santiago)
 - 👀 I’m interested in ... Games, Family, Coding, Lifting, Fishing,Food
 - 🌱 I’m currently learning ... C++, Javascript, Python
 - 📫 How to reach me ... 
-- ⚡ Fun fact: ... I can speak 2 languages and my gamerscore is 100K +.
+- ⚡ Fun fact: ... I can speak 2 languages and my gamerscore is 100K +. 
 
 <!---
 NecroFatality/NecroFatality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
